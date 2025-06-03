@@ -52,3 +52,9 @@
 - Логин: locked_out_user
 - Пароль: secret_sauce
 
+  ## Bug report 2
+
+  
+
+  
+
